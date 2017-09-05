@@ -65,6 +65,7 @@ This is a view of the user side script that plots the pump's state. 0 is off ove
 ![Alt text](/doc/results.jpg?raw=true)
 
 ## Future Work
-Future groups could improve on this project in two simple ways: 
-1) Add in temperature sensor data to make better decisions
-2) Hook up an arduino wireless shield to eliminate the need for a server computer
+Future groups could improve on this project in three simple ways: 
+1) Guarantee minimum pump run time to water plants
+2) Add in temperature sensor data to make better decisions
+3) Hook up an arduino wireless shield to eliminate the need for a server computer
